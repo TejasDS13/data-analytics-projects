@@ -1,6 +1,7 @@
 # Pizza Sales Analysis with Power BI
 Here is a screenshot of the final interactive dashboard.
-<img width="1600" height="865" alt="image" src="https://github.com/user-attachments/assets/5262a9e4-4b3d-4c5b-a556-56e5c00ec0f1" />
+<img width="1316" height="740" alt="image" src="https://github.com/user-attachments/assets/7e623284-cd53-4023-b120-2bb3dbddabd9" />
+
 ## Project Objective
 The goal of this analysis was to answer key questions about pizza sales performance to identify sales trends and top-performing products. The main objectives were:
 - Identify peak sales times and days.

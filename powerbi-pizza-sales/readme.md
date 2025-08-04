@@ -23,5 +23,5 @@ The dataset was obtained from a public GitHub repository and consists of four CS
 - **Highest Revenue Pizza:** The "Thai Chicken Pizza" generates the most revenue.
 
 ## How to View
-1.  Download the `Final Project.pbix` file from this repository.
+1.  Download the `pizza analysis.pbix` file from this repository.
 2.  Open the file using Power BI Desktop to interact with the dashboard.
